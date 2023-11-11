@@ -1,5 +1,4 @@
-<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
-![Web developer]
+<img src='https://i.ibb.co/J2hrxXQ/nahid-hero.jpg' width='400' height='350' style="object-fit:cover;" >
 
 ### Md Nahid Ahmed
 #### Web developer
