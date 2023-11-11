@@ -1,15 +1,15 @@
 
-![Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQEnZmh5JlqI2Q/profile-displaybackgroundimage-shrink_200_800/0/1637200528727?e=1643241600&v=beta&t=Eil828M8epDbHoQx5aTTZRpEnv9CVlEx6Am3fbATbAo)
+![Web developer](https://i.ibb.co/J2hrxXQ/nahid-hero.jpg)
 ### Md Nahid Ahmed
 #### Web developer
-I am Nahid Ahmed. Being interested to explore technologies I found web development as my passion. I am aspiring to bring that passion to a full-time role.
+I am Nahid Ahmed. Being interested in exploring technologies I found web development as my passion. I am aspiring to bring that passion to a full-time role.
 While in love with JavaScript, my preference is to learn and adapt to popular frameworks, libraries, and packages in order to keep pace with the changing web environment.
 
 Skills:  REACT /NODE.js/ JavaScript/Express.js/Mongodb / HTML / CSS/
 
-- 🔭 I’m currently working on ElectroCar Shop 
-- 🌱 I’m currently learning React.js 
-- 👯 I’m looking to collaborate on Github 
+- 🔭 I’m currently working on Lidi.llc 
+- 🌱 I’m currently learning DSA 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
 
