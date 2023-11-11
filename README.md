@@ -1,5 +1,6 @@
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
+![Web developer]
 
-![Web developer](https://i.ibb.co/J2hrxXQ/nahid-hero.jpg)
 ### Md Nahid Ahmed
 #### Web developer
 I am Nahid Ahmed. Being interested in exploring technologies I found web development as my passion. I am aspiring to bring that passion to a full-time role.
